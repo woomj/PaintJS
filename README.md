@@ -21,3 +21,8 @@
 4. changing color
 
     아래 컬러 선택 시 스케치되는 색상 변경
+
+5. brush size / mode change
+
+    range바를 통해 브러쉬의 사이즈를 조정
+    fill모드와 paint 모드를 전환하는 버튼 설정
